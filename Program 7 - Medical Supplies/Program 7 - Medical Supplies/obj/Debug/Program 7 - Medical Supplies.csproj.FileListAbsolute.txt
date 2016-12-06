@@ -1,0 +1,12 @@
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\bin\Debug\Program 7 - Medical Supplies.exe.config
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\bin\Debug\Program 7 - Medical Supplies.exe
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\bin\Debug\Program 7 - Medical Supplies.pdb
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\obj\Debug\Program 7 - Medical Supplies.csprojResolveAssemblyReference.cache
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\obj\Debug\Program_7___Medical_Supplies.LoginPasswordUserControl1.resources
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\obj\Debug\Program_7___Medical_Supplies.Main.resources
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\obj\Debug\Program_7___Medical_Supplies.Properties.Resources.resources
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\obj\Debug\Program 7 - Medical Supplies.csproj.GenerateResource.Cache
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\obj\Debug\Program 7 - Medical Supplies.exe
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\obj\Debug\Program 7 - Medical Supplies.pdb
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\obj\Debug\Program_7___Medical_Supplies.PracticeForm.resources
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 7 - Medical Supplies\Program 7 - Medical Supplies\obj\Debug\Program_7___Medical_Supplies.insertForm.resources
